@@ -1,43 +1,149 @@
 # Gerson Matías González Valdebenito
-**ggonzava - Software Engineer & AI Enthusiast**
 
-[LinkedIn](https://www.linkedin.com/in/tu-linkedin-aqui) | ✉️ Gerson.gonzalez.v@hotmail.com | 📍 Santiago, Chile
+**Full Stack Developer | Technical-Functional Analyst | Applied AI & Automation**
 
-Software Engineer with extensive experience in full-stack development, software architecture, and data analysis. Deeply passionate about Artificial Intelligence, voice cloning, and technological innovation. Proactive problem-solver committed to optimizing processes, building scalable microservices, and continuous learning.
+[LinkedIn](https://www.linkedin.com/in/ggonzava) | [FlowHarmony Demo](https://flowharmony.pages.dev/) | ✉️ Gerson.gonzalez.v@hotmail.com | 📍 Santiago, Chile
 
----
+Computer Engineering professional with experience in full-stack development, technical-functional analysis, application support, incident resolution and enterprise integrations in critical telecommunications systems.
 
-## 🛠️ Skills
+I have worked with Java, JavaScript, SQL, XML, Oracle, WebLogic, Oracle BPM, UNIX/Linux, shell scripting, BMC Control M and enterprise service integrations for Telefónica/Movistar Chile.
 
-* **Software Architecture and Design:** Microservices, System Scalability, REST APIs.
-* **Full-Stack Development:** Python, Java (Spring Boot, Hibernate), JavaScript/TypeScript (Angular, JSF, jQuery), C# (.NET), PHP.
-* **AI/ML Implementation and Integration:** Generative AI, Retrieval-based Voice Conversion (RVC), MMVC Server, Audio Preprocessing.
-* **AI Performance Optimization:** Local ONNX Model Evaluation, GPU Acceleration.
-* **API Engineering:** REST, JAX-WS, AXIS.
-* **Database Design:** RDBMS, MySQL, SQL Server, Oracle SQL.
-* **Cloud Computing and Infrastructure:** Docker, Kubernetes, Weblogic.
-* **DevOps & Automation:** CI/CD, UNIX Shell Scripting, Control-M, Kiuwan (Static Analysis), Automated Workflows.
+Currently strengthening my technical profile through **FlowHarmony**, a personal AI-assisted music software project where I apply web development, Git/GitHub, QA, technical documentation, automation, functional validation and AI-assisted development workflows.
 
 ---
 
-## Education
+## 🛠️ Technical Skills
 
-**Bachelor of Science, Computer Engineering (Ingeniería en Informática)** - Universidad Tecnológica de Chile INACAP (2008 - 2012)
+### Software Development
+- Java
+- JavaScript
+- HTML
+- CSS
+- XML
+- PHP
+- C#
+- ASP.NET
+- .NET Framework
+- Python
+
+### Backend & Integrations
+- Web Services
+- JAX-WS
+- AXIS
+- Batch processes
+- Enterprise integrations
+- XML request/response analysis
+
+### Databases
+- Oracle SQL
+- SQL Server
+- MySQL
+- Oracle SQL Developer
+
+### Middleware & Operations
+- Oracle WebLogic
+- Oracle BPM
+- Oracle Enterprise Manager
+- UNIX/Linux
+- Shell scripting
+- BMC Control M
+
+### QA, Automation & Applied AI
+- Git
+- GitHub
+- Technical documentation
+- Automated testing
+- Smoke testing
+- Audit scripts
+- AI-assisted development
+- Prompt engineering
+- Functional validation
 
 ---
 
-## Recent Projects & Experience
+## 🚀 Featured Project
 
-**Voice Cloning & Generative AI Research**
-*Independent Project (2021–Present)*
-Implemented and trained voice cloning models using RVC and MMVC Server with GPU acceleration. Automated voice generation and modification workflows using Python and custom scripts. Prepared specialized audio datasets, handled preprocessing, and optimized ONNX models for local execution to maximize resource efficiency in artistic and experimental voice generation.
+### FlowHarmony  
+**Personal AI-assisted music software project**  
+2024 – Present
 
-**Enterprise Platform Architecture (Movistar Chile)**
-*Fullstack Developer @ NTT DATA Europe & Latam (2015 - 2021)*
-Engineered a scalable microservices architecture using JAX-WS and AXIS. Reduced enterprise platform (SGI) load times by 30% through deep data model optimization. Designed and implemented robust unit tests and strict static code analysis with Kiuwan to ensure software security. Managed functional deliveries under Scrum methodology and automated batch processes using UNIX Shell scripting and Control-M.
+FlowHarmony is a personal project focused on harmonic assistance, chord analysis, music composition and AI-assisted development workflows.
 
-**IT Systems & Infrastructure Monitoring**
-*IT Systems Operator @ WOM Chile (2015)*
-Monitored critical national infrastructure and applications. Handled incident management across Siebel, BSCS, POS, IVR, and DNS servers, alongside executing and generating automated reports via Control-M.
+Demo: https://flowharmony.pages.dev/
+
+The project allows users to explore chords, build progressions, apply groove, export MIDI and work with features such as Chord Universe, Composer, Harmony Compass, Piano Roll, MIDI Export and harmonic assistance.
+
+Main practices applied:
+
+- Frontend development with JavaScript, HTML and CSS.
+- Implementation of harmonic analysis logic and music-related business rules.
+- Use of Git/GitHub for version control, branches, reviews and technical documentation.
+- Creation of automated tests, audit scripts, smoke tests and functional validations.
+- Use of AI agents for technical analysis, refactoring, documentation QA, prompt generation and implementation review.
+- Translation of musical needs into business rules, acceptance criteria and interface behavior.
 
 ---
+
+## 💼 Professional Experience
+
+### NTT DATA Europe & Latam / Everis  
+**Full Stack Developer / Technical-Functional Analyst**  
+2015 – 2021  
+Client: Telefónica / Movistar Chile
+
+Participated in the development, maintenance and production support of critical applications for Telefónica/Movistar Chile, combining full-stack development with technical-functional analysis, incident resolution and enterprise system integration.
+
+Key activities:
+
+- Development and maintenance of Java applications, including frontend, backend, services, database and integration components.
+- Participation in SETEC and DEM applications, working on corrective and enhancement tasks, frontend/backend analysis, estimations and technical documentation.
+- Analysis of production incidents related to work orders, IMEI, inventory, operational states, branches and service/dispatch flows.
+- SQL queries to validate order states, resources, serial numbers, traceability and data inconsistencies.
+- XML request/response, logs and batch process review to diagnose integration issues.
+- Coordination with SAP, business, functional support, PLIB and Software Factory teams.
+- Incident management using BMC Remedy, meeting client-defined SLA requirements.
+- Development and monitoring of UNIX/Linux processes, including `.sh` scripts for Java processes and BMC Control M operations.
+- Deployment support in pre-production environments, static code analysis with Kiuwan and collaboration under Scrum methodology.
+
+Highlighted projects:
+
+- **SETEC – Movistar Technical Service:** full-stack development and technical-functional support for production stabilization.
+- **DEM – Mobile Equipment Dispatch:** corrective/enhancement development and production incident analysis for dispatch, inventory, IMEI and branch-related flows.
+- **SGI / Nueva Sucursal Virtual Empresa:** requirements analysis, data model changes and technical/functional improvements.
+- **UNIFICA – Movistar Chile:** business case analysis and functional/technical requirement review.
+
+---
+
+### WOM Chile  
+**IT Systems Operator**  
+2015
+
+- Monitored critical IT platforms such as BSCS, Siebel, Web Portal, EBS, SOA Local, POS, Portability, DNS, IVR, BMC Control M and HP SiteScope.
+- Reported and followed up incidents using PRTG and HP SiteScope.
+- Managed Siebel bulk loads using SQL queries.
+- Executed portability processes in Siebel automations.
+- Generated reports and executed processes in BMC Control M.
+
+---
+
+## 🎓 Education
+
+**Computer Engineering / Ingeniería en Informática**  
+Universidad Tecnológica de Chile INACAP  
+2007 – 2012
+
+---
+
+## 🌐 Languages
+
+- Spanish: Native
+- English: Basic professional proficiency
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/ggonzava
+- GitHub: https://github.com/ggonzava
+- FlowHarmony: https://flowharmony.pages.dev/
+- Email: Gerson.gonzalez.v@hotmail.com
